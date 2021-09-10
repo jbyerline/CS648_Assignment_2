@@ -14,7 +14,7 @@ Our website serves to demo the following:
 - Unordered List tags```<ul></ul>```
 - List Item tags```<li></li>```
 - Special Symbols```&copy```
-As well as others.
+- Ect.
 
 I hope you find this repo useful.
 
