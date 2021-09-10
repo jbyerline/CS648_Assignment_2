@@ -9,7 +9,7 @@ Our website serves to demo the following:
 - Link tags```<a></a>```
 - Image tags```<img>```
 - Bold tags```<strong></strong>```
-- Italics tags```<em></em>
+- Italics tags```<em></em>```
 - Horizontal Rule tags```<hr>```
 - Unordered List tags```<ul></ul>```
 - List Item tags```<li></li>```
